@@ -1,0 +1,22 @@
+Linux-Learning/
+├── README.md
+├── 01-Linux-Fundamentals/
+│   └── introduction.md
+├── 02-Basic-Commands/
+│   └── commands.md
+├── 03-Files-and-Directories/
+│   └── file-management.md
+├── 04-Users-and-Permissions/
+│   └── users-permissions.md
+├── 05-Processes-and-Services/
+│   └── process-management.md
+├── 06-Networking/
+│   └── networking-commands.md
+├── 07-Logs-and-Troubleshooting/
+│   └── log-analysis.md
+├── 08-Bash-Scripting/
+│   └── scripts.sh
+├── 09-DevOps-Labs/
+│   └── practical-labs.md
+└── 10-Cybersecurity-Labs/
+    └── security-basics.md
